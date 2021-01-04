@@ -1,0 +1,1 @@
+- https://ggemst1.blogspot.com/2020/12/tensorflow-20-recurrent-neural-networks.html
